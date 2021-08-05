@@ -12,6 +12,7 @@ food[0] = "Martabak Telur"
 # food.append("Jagung Bakar")
 # food.remove("Mie Rebus")
 # food.pop() # Remove the last element of list
+# food.pop(1)
 # food.insert(1, "Es Teh")
 # food.sort() # Sort a list alphabetically
 # food.clear() # Remove all the elements of list
